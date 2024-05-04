@@ -19,11 +19,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&langs_count=20&hide_progress=true"/>
 </a>
-
-#![GH Stats](https://github-readme-stats.vercel.app/api?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=josh-swerdlow&theme=flat&hide_border=false)<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&langs_count=20&hide_progress=true)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-swerdlow&theme=flat&hide_border=false"/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=josh-swerdlow&theme=flat&no-frame=false&no-bg=false&margin-w=4)
