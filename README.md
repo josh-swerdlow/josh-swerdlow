@@ -13,13 +13,15 @@
 
 # 📊 GitHub Stats:
 
-<a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true"/>
 </a>
-<a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&langs_count=20&hide_progress=true"/>
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-swerdlow&theme=flat&hide_border=false"/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=josh-swerdlow&theme=flat&no-frame=false&no-bg=false&margin-w=4)
