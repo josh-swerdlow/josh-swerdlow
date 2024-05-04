@@ -21,7 +21,7 @@
 </a>
 
 <a>
-  <img height=200 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-swerdlow&theme=flat&hide_border=false"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-swerdlow&theme=flat&hide_border=false"/>
 </a>
 
 ## 🏆 GitHub Trophies
