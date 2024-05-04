@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 
 <a href="https://github.com/josh-swerdlow?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&show=prs_merged_percentage&show_icons=false"/>
 </a>
 <a href="https://github.com/josh-swerdlow?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-swerdlow&theme=flat&hide_border=false&include_all_commits=false&count_private=true&langs_count=20&hide_progress=true"/>
